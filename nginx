@@ -1,5 +1,5 @@
 #!/bin/sh
-#
+#test
 # nginx        Startup script for nginx
 #
 # chkconfig: - 85 15
